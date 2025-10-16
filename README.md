@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola 👋🧐
+
+<img src="https://i.postimg.cc/zDhFJHrX/sistemas-1760575891.png" alt="Banner" width="100%">
 
 <!--
 **Joel-Guthrie/Joel-Guthrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
