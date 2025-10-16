@@ -1,18 +1,15 @@
-## Hola 👋🧐
+## Hola 👋 Bienvenidos Soy Joel Guthrie.
 
 <img src="https://i.postimg.cc/zDhFJHrX/sistemas-1760575891.png" alt="Banner" width="100%">
 
-<!--
-**Joel-Guthrie/Joel-Guthrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Sobre mí 🧠</h3>
+<p>
+  Estudiante de <strong>Ingeniería de Sistemas</strong><br>
+  Experiencia en <strong>Bases de Datos 🛢</strong><br>
+  Desarrollo en: 
+  <strong>Python 🐍</strong>, 
+  <strong>PHP 🐘</strong>, 
+  <strong>JavaScript 🇯🇸</strong>, 
+  <strong>C++ 💻</strong>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
